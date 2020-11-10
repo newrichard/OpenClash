@@ -1,2 +1,3 @@
 # > Custom domain
 DOMAIN-SUFFIX,sunnyvalley.io
+DOMAIN-SUFFIX,emergingthreats.net
