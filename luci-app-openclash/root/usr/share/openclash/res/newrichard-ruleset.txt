@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,abuse.ch
 DOMAIN-SUFFIX,proxmox.com
 DOMAIN-SUFFIX,xcp-ng.org
 DOMAIN-SUFFIX,xen-orchestra.com
+DOMAIN-SUFFIX,stripe.com
